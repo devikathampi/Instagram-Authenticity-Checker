@@ -1,0 +1,2 @@
+# Instagram Authenticity Checker
+Detecting fake or spam instagram accounts by using machine learning algorithms. Developed a supervised classifier model for detecting fake Instagram accounts, pre-processed features using pandas, visualized the variables in scatter plot, histogram, evaluated models like logistic regression, random forest classifier, XGboost classifier algorithms with 95% accuracy on test set.
