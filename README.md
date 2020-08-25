@@ -16,6 +16,6 @@ Instragram fake/Spammer Accounts dataset
 
 ## :chart: Learning Curves
 
-<img src ="https://github.com/devikathampi/Instagram-Authenticity-Checker/blob/master/Image/image1.png>
+<img src ="https://github.com/devikathampi/Instagram-Authenticity-Checker/blob/master/Image/image1.png">
  
 <img src ="https://github.com/devikathampi/Instagram-Authenticity-Checker/blob/master/Image/image2.png">
